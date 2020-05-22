@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053890610104",
+    "firebase_url": "https://chattaskgroup.firebaseio.com",
+    "project_id": "chattaskgroup",
+    "storage_bucket": "chattaskgroup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053890610104:android:35ce4fc4b2e912a120454d",
+        "android_client_info": {
+          "package_name": "com.example.messengergroupass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053890610104-flt643h5flqnrsmb8m39pjil2nk8uprd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMG-Zbl66inPjEXj3yn23QPoiDrDGj9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053890610104-flt643h5flqnrsmb8m39pjil2nk8uprd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
